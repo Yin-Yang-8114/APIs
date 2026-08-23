@@ -1,0 +1,16 @@
+{
+    "tlv": {
+        "state": "Tel Aviv",
+        "condition": "Sunny",
+        "temp_c": 31.3,
+        "humidity": 44,
+        "timestamp": 1787490491.18234
+    },
+    "londin": {
+        "state": "Shan State",
+        "condition": "Fog",
+        "temp_c": 18.5,
+        "humidity": 99,
+        "timestamp": 1787490833.221531
+    }
+}
