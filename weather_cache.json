@@ -1,16 +1,1 @@
-{
-    "tlv": {
-        "state": "Tel Aviv",
-        "condition": "Sunny",
-        "temp_c": 31.3,
-        "humidity": 44,
-        "timestamp": 1787490491.18234
-    },
-    "londin": {
-        "state": "Shan State",
-        "condition": "Fog",
-        "temp_c": 18.5,
-        "humidity": 99,
-        "timestamp": 1787490833.221531
-    }
-}
+{"tlv": {"state": "Tel Aviv", "condition": "Sunny", "temp_c": 31.3, "humidity": 44, "timestamp": 1787490491.18234}, "londin": {"state": "Shan State", "condition": "Fog", "temp_c": 18.5, "humidity": 99, "timestamp": 1787490833.221531}, "london": {"state": "City of London, Greater London", "condition": "Sunny", "temp_c": 23.6, "humidity": 30, "timestamp": 1787492054.821214}}
